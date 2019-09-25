@@ -1,0 +1,6 @@
+name: ItemStacks
+description: Sticks items together
+main: ItemStacks\ItemStacks
+author: fludixx
+version: 1.0
+api: [3.0.0]
